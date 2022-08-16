@@ -8,6 +8,8 @@ I graduated from the University of Rochester in 2021 with a B.A. in Economics, a
 
 Since then, I've been working as a Research Analyst at Resources for the Future (RFF), a nonpartisan environmental economics think-tank in Washington, DC.  
 
+I currently an applicant to MPH programs.
+
 ### Publications:
 
 Raimi D, **Campbell EJ**, Newell RG, Prest B, Villanueva S, Wingenroth J. “Global Energy Outlook 2022: Turning Points and Tension in the Energy Transition.” Resources for the Future Report. April 2022. [Report](https://www.rff.org/publications/reports/global-energy-outlook-2022/#:~:text=Data%20%26%20Tools-,Global%20Energy%20Outlook%202022%3A%20Turning%20Points%20and%20Tension%20in%20the,consumption%2C%20emissions%2C%20and%20geopolitics.)
