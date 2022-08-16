@@ -1,4 +1,4 @@
-## About me:
+## About:
 
 _(She/Her)_
 
