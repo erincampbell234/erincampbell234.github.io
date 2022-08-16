@@ -6,7 +6,7 @@ I am an aspiring public health researcher interested in how economic policy, env
 
 I graduated from the University of Rochester in 2021 with a B.A. in Economics, a B.S. in Environmental Health, and a minor in Applied Statistics. 
 
-Since then, I've been working as a Research Analyst at Resources for the Future (RFF), a nonpartisan environmental economics think-tank in Washington, DC. 
+Since then, I've been working as a Research Analyst at Resources for the Future (RFF), a nonpartisan environmental economics think-tank in Washington, DC.  
 
 ### Publications:
 
