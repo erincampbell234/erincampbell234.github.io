@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Research:
 
-### Publicationserincampbell234.github.io
+### Publications
 ```markdown
 
 1. Numbered
