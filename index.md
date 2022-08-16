@@ -1,5 +1,7 @@
 ## About me:
 
+_(She/Her)_
+
 I am an aspiring public health researcher interested in how economic policy, environmental exposure, and long-term health intersect at the community level.
 
 I graduated from the University of Rochester in 2021 with a B.A. in Economics, a B.S. in Environmental Health, and a minor in Applied Statistics. 
