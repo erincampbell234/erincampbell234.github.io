@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Erin J. Campbell
 description: Public health, environmental economics, and spatial researcher.
-logo: https://media.rff.org/images/RFF-Headshots-4755.max-476x260.jpg
+logo: /assets/EJC.jpeg
 show downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
