@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Erin J. Campbell
 description: Public health, environmental economics, and spatial researcher.
-logo: /assets/EJC.jpeg
+logo:
 show downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
