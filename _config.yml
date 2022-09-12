@@ -1,9 +1,6 @@
 theme: jekyll-theme-minimal
 title: Erin J. Campbell
-description: | (She/Her)
-Twitter @EJ__Campbell
-
-
+description: (She/Her)
 logo: /assets/img/EJC.jpeg
 show downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
