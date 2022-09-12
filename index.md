@@ -34,12 +34,12 @@ Holland B. "Ukraine Crisis Injects Urgency, Complexity into Energy Transition Pl
 
 Orszag PR. "The U.S. Makes Carbon Pricing More Complicated than it Needs to Be." **Washington Post.** and **Bloomberg** September 2021. [Link](https://www.washingtonpost.com/business/energy/the-us-makes-carbon-pricing-more-complicated-than-it-needs-to-be/2021/09/08/ae0974ea-10a9-11ec-baca-86b144fc8a2d_story.html)
 
-### Skills 
+### Skills: 
 
 **Programming:** R, Python, STATA, SAS, Javascript
 
 **Software:** ArcGIS, GitHub, Overleaf/LaTeX, Google Earth Engine
 
-**Research:** Data cleaning, statistical analyses, visualization (spatial and non-spatial), project management, data collection from public sources
+**Research:** Data cleaning, statistical analyses, visualization (spatial and non-spatial), project management, data collection from public sources, writing and editing
 
 **Teaching and Learning:** Trained writing tutor for all disciplines and stages of the writing process, experienced teaching assistant for introductory collegiate classes (Econ 101, Public Health 101), peer-mentor to undergraduate researchers
