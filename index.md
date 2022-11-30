@@ -6,7 +6,11 @@ I am an aspiring public health researcher interested in how economic policy, env
 
 I graduated from the University of Rochester in 2021 with a B.A. in Economics, a B.S. in Environmental Health, and a minor in Applied Statistics. 
 
-Since then, I've been working as a Research Analyst at Resources for the Future (RFF), a nonpartisan environmental economics think-tank in Washington, DC.  
+For a year and a half after graduating, I been worked as a Research Analyst at Resources for the Future (RFF), a nonpartisan environmental economics think-tank in Washington, DC.  
+
+Now, I'm a full-time Research Assistant at Boston University, working with on a NIH funded project that investigates reproductive health equity, and oil and gas development.
+
+You can contact me on twitter @erincampbell234, or via email at ejcam@bu.edu
 
 I currently an applicant to MPH programs.
 
