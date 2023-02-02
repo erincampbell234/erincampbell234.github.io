@@ -14,7 +14,13 @@ You can contact me on twitter @erincampbell234, or via email at ejcam@bu.edu
 
 I currently an applicant to MPH programs.
 
-### Publications:
+### Peer Reviewed Publications:
+
+**Campbell EJ**, Sims KD, Hill EL, Willis MD. "Associations Among Historical Neighborhood Disinvestment, Hazardous Air Pollution, and Current Adult Asthma Prevalence." In Press, Environmental Health Perspectives, DOI: 10.1289/EHP11371.  
+
+### Other Publications:
+
+Krupnick A, Raimi D, Look W, Shih JS, Villanueva S, **Campbell EJ**. "Policies on the Road to Carbon Neutrality in the Intermountain West." Resources for the Future Report, January 2023. [Report](https://www.rff.org/publications/reports/policies-on-the-road-to-carbon-neutrality-in-the-intermountain-west/)
 
 Raimi D, **Campbell EJ**, Newell RG, Prest B, Villanueva S, Wingenroth J. “Global Energy Outlook 2022: Turning Points and Tension in the Energy Transition.” Resources for the Future Report. April 2022. [Report](https://www.rff.org/publications/reports/global-energy-outlook-2022/#:~:text=Data%20%26%20Tools-,Global%20Energy%20Outlook%202022%3A%20Turning%20Points%20and%20Tension%20in%20the,consumption%2C%20emissions%2C%20and%20geopolitics.)
 
