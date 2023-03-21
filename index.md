@@ -12,7 +12,7 @@ Now, I'm a full-time Research Assistant at Boston University, working with on a 
 
 You can contact me on twitter @erincampbell234, or via email at ejcam@bu.edu
 
-I currently an applicant to MPH programs.
+I am an incoming MPH student at the George Washington University Milken Institute School of Public Health.
 
 ### Peer Reviewed Publications:
 
