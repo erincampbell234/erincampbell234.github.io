@@ -16,7 +16,15 @@ I am an incoming MPH student at the George Washington University Milken Institut
 
 ### Peer Reviewed Publications:
 
-**Campbell EJ**, Sims KD, Hill EL, Willis MD. "Associations Among Historical Neighborhood Disinvestment, Hazardous Air Pollution, and Current Adult Asthma Prevalence." In Press, Environmental Health Perspectives, DOI: 10.1289/EHP11371.  
+**Campbell EJ**, Sims KD, Hill EL, Willis MD. "Associations Among Historical Neighborhood Disinvestment, Hazardous Air Pollution, and Current Adult Asthma Prevalence." Environmental Health Perspectives, DOI: 10.1289/EHP11371.  
+
+### Select Works In Progress:
+
+Willis MD, Volkin E, **Campbell EJ**, Hill EL, Hystad P. "Associations between vehicle miles travelled and ambient air pollution at regulatory monitoring sites: a national natural experiment using the COVID-19 shut down." In preparation. 
+
+Willis MD, Hill EL, Ncube C, **Campbell EJ,** Harris L, Harelman M, Ritz B, Hystad P. "Changes in socioeconomic disparities for traffic-related air pollution exposure during pregnancy over a 20-year period in Texas." R&R at JAMA Network Open
+
+Willis MD, Harris L, **Campbell EJ**, Sawyer E, Chaskes M, Ritz B, Hill EL, Hystad P. "Assessing the influence of electronic tolling on air pollution, traffic congestion, and infant health in a population-based cohot study." In preparation.
 
 ### Other Publications:
 
