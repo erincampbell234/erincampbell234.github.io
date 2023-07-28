@@ -6,13 +6,17 @@ I am an aspiring public health researcher interested in how economic policy, env
 
 I graduated from the University of Rochester in 2021 with a B.A. in Economics, a B.S. in Environmental Health, and a minor in Applied Statistics. 
 
-For a year and a half after graduating, I worked as a Research Analyst at Resources for the Future (RFF), a nonpartisan environmental economics think-tank in Washington, DC.  
-
-Now, I'm a full-time Research Assistant at Boston University, working with on a NIH funded project that investigates reproductive health equity, and oil and gas development.
+For a year and a half after graduating, I worked as a Research Analyst at Resources for the Future (RFF), a nonpartisan environmental economics think-tank in Washington, DC. I spent 8 months as a full-time Research Assistant at Boston University, working with on a NIH funded project that investigates reproductive health equity, and oil and gas development associated with the PRESTO study and Mary Willis PhD.
 
 You can contact me on twitter @erincampbell234, or via email at ejcam@bu.edu
 
-I am an incoming MPH student at the George Washington University Milken Institute School of Public Health.
+_Current Affiliations:_
+
+MPH student at the George Washington University Milken Institute School of Public Health, concentrating in environmental health.  
+
+Graduate research assistant at the GW Air, Climate, and Health Lab, led by Susan Anenberg, PhD.  
+
+Part-time research assistant at BUSPH's epidemiology department for the PRESTO study.
 
 ### Peer Reviewed Publications:
 
