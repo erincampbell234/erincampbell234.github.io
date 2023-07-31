@@ -22,13 +22,18 @@ Part-time research assistant at BUSPH's epidemiology department for the PRESTO s
 
 **Campbell EJ**, Sims KD, Hill EL, Willis MD. "Associations Among Historical Neighborhood Disinvestment, Hazardous Air Pollution, and Current Adult Asthma Prevalence." Environmental Health Perspectives, DOI: 10.1289/EHP11371.  
 
+Willis MD, Hill EL, Ncube C, **Campbell EJ,** Harris L, Harelman M, Ritz B, Hystad P. "Changes in socioeconomic disparities for traffic-related air pollution exposure during pregnancy over a 20-year period in Texas." Accepted at JAMA Network Open.
+
 ### Select Works In Progress:
 
 Willis MD, Volkin E, **Campbell EJ**, Hill EL, Hystad P. "Associations between vehicle miles travelled and ambient air pollution at regulatory monitoring sites: a national natural experiment using the COVID-19 shut down." In preparation. 
 
-Willis MD, Hill EL, Ncube C, **Campbell EJ,** Harris L, Harelman M, Ritz B, Hystad P. "Changes in socioeconomic disparities for traffic-related air pollution exposure during pregnancy over a 20-year period in Texas." Accepted at JAMA Network Open
+Willis MD, Harris L, **Campbell EJ**, Chaskes M, Sawyer E, Harleman M, Ritz B, Hill EL, Hystad P. "A population based cohort study of electronic tolling, traffic congestion, and adverse birth outcomes." In preparation.
 
-Willis MD, Harris L, **Campbell EJ**, Sawyer E, Chaskes M, Ritz B, Hill EL, Hystad P. "Assessing the influence of electronic tolling on air pollution, traffic congestion, and infant health in a population-based cohot study." In preparation.
+Willis MD, Selbe S, **Campbell EJ**, Gradus JL, Nillni YI, Casey JA, Deziel NC, Hatch E, Wesselink AK, Wise LA. "Residential Proximity to Oil and Gas Development and Mental Health in a North American Preconception Cohort Study" In preparation.
+
+Hystad P, Hill EL, Larkin A, Schrank D, Harleman M, Volkin E, **Campbell EJ**, Molitor J, Harris L, Ritz B, Willis MD. "Assessing the Effect of Decreased Tailpipe Emissions on Adverse Birth Outcomes over a 20-Year Period in Texas." In preparation. 
+
 
 ### Other Publications:
 
@@ -60,7 +65,7 @@ Orszag PR. "The U.S. Makes Carbon Pricing More Complicated than it Needs to Be."
 
 **Programming:** R, Python, STATA, SAS, Javascript
 
-**Software:** ArcGIS, GitHub, Overleaf/LaTeX, Google Earth Engine
+**Software:** ArcGIS Pro, GitHub, Overleaf/LaTeX, Google Earth Engine
 
 **Research:** Data cleaning, statistical analyses, visualization (spatial and non-spatial), project management, data collection from public sources, writing and editing
 
