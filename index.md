@@ -26,8 +26,6 @@ Willis MD, Hill EL, Ncube C, **Campbell EJ,** Harris L, Harelman M, Ritz B, Hyst
 
 ### Select Works In Progress:
 
-Willis MD, Volkin E, **Campbell EJ**, Hill EL, Hystad P. "Associations between vehicle miles travelled and ambient air pollution at regulatory monitoring sites: a national natural experiment using the COVID-19 shut down." In preparation. 
-
 Willis MD, Harris L, **Campbell EJ**, Chaskes M, Sawyer E, Harleman M, Ritz B, Hill EL, Hystad P. "A population based cohort study of electronic tolling, traffic congestion, and adverse birth outcomes." In preparation.
 
 Willis MD, Selbe S, **Campbell EJ**, Gradus JL, Nillni YI, Casey JA, Deziel NC, Hatch E, Wesselink AK, Wise LA. "Residential Proximity to Oil and Gas Development and Mental Health in a North American Preconception Cohort Study" In preparation.
@@ -54,7 +52,7 @@ Pizer WA, **Campbell EJ**. “Border Carbon Adjustments without Full (or Any) Ca
 
 **Campbell EJ**. "Urban Forests: the Gateway to a Healthier Economy, Environment, and Community." Bipartisan Policy Center Blog. October 2020. [Blog](https://bipartisanpolicy.org/blog/urban-forests-the-gateway-to-a-healthier-economy-environment-and-community/)
 
-### Select Press Coverage:
+### Select Press/Political Coverage:
 
 Council of Economic Advisors. "2022 Economic Report of the President." **Biden-Harris Executive Office.** April 2022. [Link](https://www.whitehouse.gov/wp-content/uploads/2022/04/ERP-2022.pdf) page 117
 
