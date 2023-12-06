@@ -20,19 +20,22 @@ Part-time research assistant at BUSPH's epidemiology department for the PRESTO s
 
 ### Peer Reviewed Publications:
 
-**Campbell EJ**, Sims KD, Hill EL, Willis MD. "Associations Among Historical Neighborhood Disinvestment, Hazardous Air Pollution, and Current Adult Asthma Prevalence." Environmental Health Perspectives, DOI: 10.1289/EHP11371.  
+_2023:_
+
+Willis MD, Harris L, **Campbell EJ**, Chaskes M, Sawyer E, Harleman M, Ritz B, Hill EL, Hystad P. "A population based cohort study of electronic tolling, traffic congestion, and adverse birth outcomes." Environment International. DOI:10.1016/j.envint.2023.108355
 
 Willis MD, Hill EL, Ncube C, **Campbell EJ,** Harris L, Harelman M, Ritz B, Hystad P. "Changes in socioeconomic disparities for traffic-related air pollution exposure during pregnancy over a 20-year period in Texas." JAMA Network Open. DOI: 10.1001/jamanetworkopen.2023.28012
 
+**Campbell EJ**, Sims KD, Hill EL, Willis MD. "Associations Among Historical Neighborhood Disinvestment, Hazardous Air Pollution, and Current Adult Asthma Prevalence." Environmental Health Perspectives, DOI: 10.1289/EHP11371.  
+
+
 ### Select Works In Progress:
 
-Willis MD, Harris L, **Campbell EJ**, Chaskes M, Sawyer E, Harleman M, Ritz B, Hill EL, Hystad P. "A population based cohort study of electronic tolling, traffic congestion, and adverse birth outcomes." In preparation.
+Willis MD, Selbe S, **Campbell EJ**, Gradus JL, Nillni YI, Casey JA, Deziel NC, Hatch E, Wesselink AK, Wise LA. "Residential Proximity to Oil and Gas Development and Mental Health in a North American Preconception Cohort Study" Under Review.
 
-Willis MD, Selbe S, **Campbell EJ**, Gradus JL, Nillni YI, Casey JA, Deziel NC, Hatch E, Wesselink AK, Wise LA. "Residential Proximity to Oil and Gas Development and Mental Health in a North American Preconception Cohort Study" In preparation.
+Hystad P, Hill EL, Larkin A, Schrank D, Harleman M, Volkin E, **Campbell EJ**, Molitor J, Harris L, Ritz B, Willis MD. "Assessing the Effect of Decreased Tailpipe Emissions on Adverse Birth Outcomes over a 20-Year Period in Texas." Under Review. 
 
-Hystad P, Hill EL, Larkin A, Schrank D, Harleman M, Volkin E, **Campbell EJ**, Molitor J, Harris L, Ritz B, Willis MD. "Assessing the Effect of Decreased Tailpipe Emissions on Adverse Birth Outcomes over a 20-Year Period in Texas." In preparation. 
-
-**Campbell EJ**, Buonocore J, Polka EN, Schildroth S, Wesselink AK, Wise LA, Willis MD. "A Fossil Fuel Exposure Assessment in a Preconception Cohort Study: Implications for Society, Policy, and Health" In preparation
+**Campbell EJ**, Buonocore J, Polka EN, Schildroth S, Wesselink AK, Wise LA, Willis MD. "A Fossil Fuel Exposure Assessment in a Preconception Cohort Study: Implications for Society, Policy, and Health" In preparation.
 
 ### Other Publications:
 
