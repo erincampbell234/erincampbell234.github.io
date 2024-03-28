@@ -20,6 +20,10 @@ Part-time research assistant at BUSPH's epidemiology department for the PRESTO s
 
 ### Peer Reviewed Publications:
 
+_2024:_
+
+Hill EL, Harleman M, Harris L, Sventek G, Ritz B, **Campbell EJ**, Willis MD, Hystad P. "Roadway construction as a natural experiment to examine air pollution impacts on infant health." Environmental Research, DOI: 10.1016/j.envres.2024.118788 
+
 _2023:_
 
 Willis MD, Harris L, **Campbell EJ**, Chaskes M, Sawyer E, Harleman M, Ritz B, Hill EL, Hystad P. "A population based cohort study of electronic tolling, traffic congestion, and adverse birth outcomes." Environment International. DOI:10.1016/j.envint.2023.108355
