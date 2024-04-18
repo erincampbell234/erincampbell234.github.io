@@ -32,7 +32,6 @@ Willis MD, Hill EL, Ncube C, **Campbell EJ,** Harris L, Harelman M, Ritz B, Hyst
 
 **Campbell EJ**, Sims KD, Hill EL, Willis MD. "Associations Among Historical Neighborhood Disinvestment, Hazardous Air Pollution, and Current Adult Asthma Prevalence." Environmental Health Perspectives, DOI: 10.1289/EHP11371.  
 
-
 ### Select Works In Progress:
 
 Willis MD, Selbe S, **Campbell EJ**, Gradus JL, Nillni YI, Casey JA, Deziel NC, Hatch E, Wesselink AK, Wise LA. "Residential Proximity to Oil and Gas Development and Mental Health in a North American Preconception Cohort Study" Under Review AJPH.
@@ -41,7 +40,7 @@ Hystad P, Hill EL, Larkin A, Schrank D, Harleman M, Volkin E, **Campbell EJ**, M
 
 **Campbell EJ**, Buonocore J, Polka EN, Schildroth S, Wesselink AK, Wise LA, Willis MD. "A Fossil Fuel Exposure Assessment in a Preconception Cohort Study: Implications for Society, Policy, and Health" In preparation.
 
-Reimer CJ, Willis MD, Wesselink AK, Hystad P, **Campbell EJ**, Hatch EE, Kirwa K, Gradus JL, Wise LA, Jiminez MP. "Exposure to residential greenness and markers of psychosocial stress and depressive symptoms in a north american preconception cohort." In preparation. 
+Reimer CJ, Willis MD, Wesselink AK, Hystad P, **Campbell EJ**, Hatch EE, Kirwa K, Gradus JL, Wise LA, Jiminez MP. "Exposure to residential greenness and markers of psychosocial stress and depressive symptoms in a north american preconception cohort." Under Review. 
 
 ### Other Publications:
 
@@ -77,4 +76,4 @@ Orszag PR. "The U.S. Makes Carbon Pricing More Complicated than it Needs to Be."
 
 **Research:** Data cleaning, statistical analyses, visualization (spatial and non-spatial), project management, data collection from public sources, writing and editing
 
-**Teaching and Learning:** Trained writing tutor for all disciplines and stages of the writing process, experienced teaching assistant for introductory collegiate classes (Econ 101, Public Health 101), peer-mentor to undergraduate researchers
+**Teaching and Learning:** Trained writing tutor for all disciplines and stages of the writing process, experienced teaching assistant for introductory collegiate classes (Econ 101, Public Health 101) and upper level electives (Sustainable Energy and Environmental Health), peer-mentor to undergraduate researchers, graduate teaching assistant certification (GWU, earned 2024)
