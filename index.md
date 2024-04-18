@@ -12,7 +12,7 @@ You can contact me on twitter @erincampbell234, or via email at ejcam@bu.edu
 
 _Current Affiliations:_
 
-MPH student at the George Washington University Milken Institute School of Public Health, concentrating in environmental health.  
+MPH student at the George Washington University Milken Institute School of Public Health, concentrating in environmental health. Expected graduation May 2025.
 
 Graduate research assistant at the GW Air, Climate, and Health Lab, led by Susan Anenberg, PhD.  
 
