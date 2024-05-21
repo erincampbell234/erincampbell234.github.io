@@ -22,6 +22,8 @@ Part-time research assistant at BUSPH's epidemiology department for the PRESTO s
 
 _2024:_
 
+Willis MD, **Campbell EJ**, Selbe S, Gradus JL, Nillni YI, Casey JA, Deziel NC, Hatch E, Wesselink AK, Wise LA. "Residential Proximity to Oil and Gas Development and Mental Health in a North American Preconception Cohort Study" In Press, AJPH.
+
 Hill EL, Harleman M, Harris L, Sventek G, Ritz B, **Campbell EJ**, Willis MD, Hystad P. "Roadway construction as a natural experiment to examine air pollution impacts on infant health." Environmental Research, DOI: 10.1016/j.envres.2024.118788 
 
 _2023:_
@@ -34,11 +36,7 @@ Willis MD, Hill EL, Ncube C, **Campbell EJ,** Harris L, Harelman M, Ritz B, Hyst
 
 ### Select Works In Progress:
 
-Willis MD, Selbe S, **Campbell EJ**, Gradus JL, Nillni YI, Casey JA, Deziel NC, Hatch E, Wesselink AK, Wise LA. "Residential Proximity to Oil and Gas Development and Mental Health in a North American Preconception Cohort Study" Under Review AJPH.
-
 Hystad P, Hill EL, Larkin A, Schrank D, Harleman M, Volkin E, **Campbell EJ**, Molitor J, Harris L, Ritz B, Willis MD. "Assessing the Effect of Decreased Tailpipe Emissions on Adverse Birth Outcomes over a 20-Year Period in Texas." Under Review. 
-
-**Campbell EJ**, Buonocore J, Polka EN, Schildroth S, Wesselink AK, Wise LA, Willis MD. "A Fossil Fuel Exposure Assessment in a Preconception Cohort Study: Implications for Society, Policy, and Health" In preparation.
 
 Reimer CJ, Willis MD, Wesselink AK, Hystad P, **Campbell EJ**, Hatch EE, Kirwa K, Gradus JL, Wise LA, Jiminez MP. "Exposure to residential greenness and markers of psychosocial stress and depressive symptoms in a north american preconception cohort." Under Review. 
 
