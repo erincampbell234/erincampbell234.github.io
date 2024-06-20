@@ -22,6 +22,8 @@ Part-time research assistant at BUSPH's epidemiology department for the PRESTO s
 
 _2024:_
 
+Reimer CJ, Willis MD, Wesselink AK, Hystad P, **Campbell EJ**, Hatch EE, Kirwa K, Gradus JL, Wise LA, Jiminez MP. "Exposure to residential greenness and markers of psychosocial stress and depressive symptoms in a north american preconception cohort." In Press, Environmental Research. 
+
 Willis MD, **Campbell EJ**, Selbe S, Gradus JL, Nillni YI, Casey JA, Deziel NC, Hatch E, Wesselink AK, Wise LA. "Residential Proximity to Oil and Gas Development and Mental Health in a North American Preconception Cohort Study" In Press, AJPH.
 
 Hill EL, Harleman M, Harris L, Sventek G, Ritz B, **Campbell EJ**, Willis MD, Hystad P. "Roadway construction as a natural experiment to examine air pollution impacts on infant health." Environmental Research, DOI: 10.1016/j.envres.2024.118788 
@@ -38,7 +40,8 @@ Willis MD, Hill EL, Ncube C, **Campbell EJ,** Harris L, Harelman M, Ritz B, Hyst
 
 Hystad P, Hill EL, Larkin A, Schrank D, Harleman M, Volkin E, **Campbell EJ**, Molitor J, Harris L, Ritz B, Willis MD. "Assessing the Effect of Decreased Tailpipe Emissions on Adverse Birth Outcomes over a 20-Year Period in Texas." Under Review. 
 
-Reimer CJ, Willis MD, Wesselink AK, Hystad P, **Campbell EJ**, Hatch EE, Kirwa K, Gradus JL, Wise LA, Jiminez MP. "Exposure to residential greenness and markers of psychosocial stress and depressive symptoms in a north american preconception cohort." Under Review. 
+**Campbell EJ**, Koenig MK, Mooney FA, Clark CJ, González DJX, Deziel NC, Casey JA, Buonocore JJ, Willis MD. "A Narrative Review of Spatial-Temporal Data Sources for Estimating Population-Level Exaposures to Oil and Gas Development in the United States".
+
 
 ### Other Publications:
 
