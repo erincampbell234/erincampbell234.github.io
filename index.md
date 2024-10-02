@@ -22,9 +22,11 @@ Part-time research assistant at BUSPH's epidemiology department for the PRESTO s
 
 _2024:_
 
-Reimer CJ, Willis MD, Wesselink AK, Hystad P, **Campbell EJ**, Hatch EE, Kirwa K, Gradus JL, Wise LA, Jiminez MP. "Exposure to residential greenness and markers of psychosocial stress and depressive symptoms in a north american preconception cohort." In Press, Environmental Research. 
+O'Donnell C, **Campbell EJ**, McCormick S, Anenberg SC."Prenatal exposure to air pollution and maternal fetal thyroid function: a systematic review of the epidemiological evidence." Environmental Health, DOI: https://doi.org/10.1186/s12940-024-01116-9
 
-Willis MD, **Campbell EJ**, Selbe S, Gradus JL, Nillni YI, Casey JA, Deziel NC, Hatch E, Wesselink AK, Wise LA. "Residential Proximity to Oil and Gas Development and Mental Health in a North American Preconception Cohort Study" In Press, AJPH.
+Reimer CJ, Willis MD, Wesselink AK, Hystad P, **Campbell EJ**, Hatch EE, Kirwa K, Gradus JL, Wise LA, Jiminez MP. "Exposure to residential greenness and markers of psychosocial stress and depressive symptoms in a north american preconception cohort." Environmental Research, DOI: https://doi.org/10.1016/j.envres.2024.119438
+
+Willis MD, **Campbell EJ**, Selbe S, Gradus JL, Nillni YI, Casey JA, Deziel NC, Hatch E, Wesselink AK, Wise LA. "Residential Proximity to Oil and Gas Development and Mental Health in a North American Preconception Cohort Study." AJPH, DOI: https://doi.org/10.2105/AJPH.2024.307730
 
 Hill EL, Harleman M, Harris L, Sventek G, Ritz B, **Campbell EJ**, Willis MD, Hystad P. "Roadway construction as a natural experiment to examine air pollution impacts on infant health." Environmental Research, DOI: 10.1016/j.envres.2024.118788 
 
