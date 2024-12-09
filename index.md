@@ -6,17 +6,21 @@ I am an aspiring public health researcher interested in how economic policy, env
 
 I graduated from the University of Rochester in 2021 with a B.A. in Economics, a B.S. in Environmental Health, and a minor in Applied Statistics. 
 
-For a year and a half after graduating, I worked as a Research Analyst at Resources for the Future (RFF), a nonpartisan environmental economics think-tank in Washington, DC. I spent 8 months as a full-time Research Assistant at Boston University, working with on a NIH funded project that investigates reproductive health equity, and oil and gas development associated with the PRESTO study and Mary Willis PhD.
+For a year and a half after graduating, I worked as a Research Analyst at Resources for the Future (RFF), a nonpartisan environmental economics think-tank in Washington, DC. I spent 8 months as a full-time Research Assistant at Boston University, working with on a NIH funded project that investigates reproductive health equity, and oil and gas development associated with the PRESTO study and Mary Willis PhD. I continue to contribute to this project part-time through my graudate studies. 
+
+At GWU, I have become involved as a research assistant in the GW Air, Climate, and Health Lab (PI: Susan Anenberg, PhD), where I have worked on projects ranging from systematic review to commentary on energy policy modelling. Additionally, I have served as the teaching assistant (2024 and 2025) for Sustainable Energy and Environmental Health, an upper level undergraduate course taught by Dan Goldberg, PhD. 
+
+I am currently writing my master's thesis on oil and gas development and adverse birth outcomes, co-advised by Mary Willis, PhD (BU) and Jordan Kuiper PhD (GWU). 
 
 You can contact me on twitter @erincampbell234, or via email at ejcam@bu.edu
 
 _Current Affiliations:_
 
-MPH student at the George Washington University Milken Institute School of Public Health, concentrating in environmental health. Expected graduation May 2025.
+MPH student at the George Washington University Milken Institute School of Public Health, concentrating in global environmental health. Expected graduation May 2025.
 
 Graduate research assistant at the GW Air, Climate, and Health Lab, led by Susan Anenberg, PhD.  
 
-Part-time research assistant at BUSPH's epidemiology department for the PRESTO study.
+Part-time staff research assistant at BUSPH's epidemiology department for the PRESTO study.
 
 ### Peer Reviewed Publications:
 
@@ -40,9 +44,9 @@ Willis MD, Hill EL, Ncube C, **Campbell EJ,** Harris L, Harelman M, Ritz B, Hyst
 
 ### Select Works In Progress:
 
-Hystad P, Hill EL, Larkin A, Schrank D, Harleman M, Volkin E, **Campbell EJ**, Molitor J, Harris L, Ritz B, Willis MD. "Assessing the Effect of Decreased Tailpipe Emissions on Adverse Birth Outcomes over a 20-Year Period in Texas." Under Review. 
+Hystad P, Hill EL, Larkin A, Schrank D, Harleman M, Volkin E, **Campbell EJ**, Molitor J, Harris L, Ritz B, Willis MD. "Changes in Traffic-Related Air Pollution Exposures and Associations with Adverse Birth Outcomes over a 20-Year Period in Texas." In press, IJE. 
 
-**Campbell EJ**, Koenig MK, Mooney FA, Clark CJ, González DJX, Deziel NC, Casey JA, Buonocore JJ, Willis MD. "A Narrative Review of Spatial-Temporal Data Sources for Estimating Population-Level Exaposures to Oil and Gas Development in the United States".
+**Campbell EJ**, Koenig MK, Mooney FA, Clark CJ, González DJX, Deziel NC, Casey JA, Buonocore JJ, Willis MD. "A Narrative Review of Spatial-Temporal Data Sources for Estimating Population-Level Exposures to Oil and Gas Development in the United States". Under review.
 
 
 ### Other Publications:
