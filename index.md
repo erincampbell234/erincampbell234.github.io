@@ -2,7 +2,7 @@
 
 _(She/Her)_
 
-I am an aspiring public health researcher interested in how economic policy, environmental exposure, and long-term health intersect at the community level. I am particularly interested in these topics as they relate to extractive industries like oil and gas. 
+I am a public health researcher interested in how economic policy, environmental exposure, and long-term health intersect at the community level. I am particularly interested in these topics as they relate to extractive industries like oil and gas. 
 
 I graduated from the University of Rochester in 2021 with a B.A. in Economics, a B.S. in Environmental Health, and a minor in Applied Statistics. 
 
@@ -23,6 +23,9 @@ Graduate research assistant at the GW Air, Climate, and Health Lab, led by Susan
 Part-time staff research assistant at BUSPH's epidemiology department for the PRESTO study.
 
 ### Peer Reviewed Publications:
+_2025:_
+
+Hystad P, Hill EL, Larkin A, Schrank D, Harleman M, Volkin E, **Campbell EJ**, Molitor J, Harris L, Ritz B, Willis MD. "Changes in Traffic-Related Air Pollution Exposures and Associations with Adverse Birth Outcomes over a 20-Year Period in Texas." IJE, DOI: https://doi.org/10.1093/ije/dyae178. 
 
 _2024:_
 
@@ -44,10 +47,7 @@ Willis MD, Hill EL, Ncube C, **Campbell EJ,** Harris L, Harelman M, Ritz B, Hyst
 
 ### Select Works In Progress:
 
-Hystad P, Hill EL, Larkin A, Schrank D, Harleman M, Volkin E, **Campbell EJ**, Molitor J, Harris L, Ritz B, Willis MD. "Changes in Traffic-Related Air Pollution Exposures and Associations with Adverse Birth Outcomes over a 20-Year Period in Texas." In press, IJE. 
-
 **Campbell EJ**, Koenig MK, Mooney FA, Clark CJ, González DJX, Deziel NC, Casey JA, Buonocore JJ, Willis MD. "A Narrative Review of Spatial-Temporal Data Sources for Estimating Population-Level Exposures to Oil and Gas Development in the United States". Under review.
-
 
 ### Other Publications:
 
